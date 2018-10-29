@@ -1,0 +1,4 @@
+degub: true
+
+server:
+  contextPath: /autenticador
