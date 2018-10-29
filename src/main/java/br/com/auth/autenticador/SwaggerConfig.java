@@ -33,7 +33,7 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfo("Autenticador REST", "API de Controler para autenticações", "ECAD", "Terms of service",
+		return new ApiInfo("Autenticador REST", "API de Controler para autenticações", "", "Terms of service",
 				new Contact("Marcus", "www.example.com", "myeaddress@company.com"), "License of API", "API license URL",
 				Collections.emptyList());
 	}
