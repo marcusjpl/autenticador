@@ -2,7 +2,7 @@
 JWT + SpringBoot + Swagger
 
 ## Api para gerenciar Tokens.
-###Swagger:
+### Swagger:
 http://localhost:8181/autenticador/swagger
 
-###Servidor: Wildfly 10 ou superior
+### Servidor: Wildfly 10 ou superior
